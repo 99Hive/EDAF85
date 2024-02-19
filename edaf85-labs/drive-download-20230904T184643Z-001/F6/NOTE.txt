@@ -1,0 +1,1 @@
+"Överkurs om flerprocessorsystem (multicore) som inte ingår i kursen, men kan vara intressant/allmänbildande:"
